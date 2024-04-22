@@ -1,4 +1,3 @@
 
 /nahida_venv
-nahida_venv/
-
+.env.example
